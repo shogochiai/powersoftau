@@ -1,7 +1,7 @@
 powersoftau
 ===========
 
-powersoftau is an independent implementation of the [Powers of Tau](https://z.cash.foundation/blog/powers-of-tau/) MPC ceremony.
+powersoftau is an independent implementation of the [Powers of Tau](https://www.zfnd.org/blog/powers-of-tau) MPC ceremony.
 
 It is written in Go, shares no code with the [main Rust implementation](https://github.com/ebfull/powersoftau), and uses the [RELIC](https://github.com/relic-toolkit/relic) toolkit for BLS12-381.
 
